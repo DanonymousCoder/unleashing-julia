@@ -15,11 +15,3 @@ println(letter_s)
 
 ❤️ = "Julia is love!"
 println(❤️)  # Outputs: Julia is love!
-
-greeting = "Hello, Julia!"
-println(greeting)
-letter_s = "s️❤️"
-println(letter_s)
-
-❤️ = "Julia is love!"
-println(❤️)  # Outputs: Julia is love!
